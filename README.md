@@ -1,4 +1,4 @@
-# MedicalTextNegation-ru
+# MedicalTextNegation
 
 The goal of the exercise is identifying ways of negation of anamnesis facts by a patient, in clinical summaries written in Russian.
 
